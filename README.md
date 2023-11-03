@@ -1,0 +1,1 @@
+# NULL_columns_in_dataframe
